@@ -1,0 +1,89 @@
+h1 {
+	font-size: 80px;
+	color: white;
+	font-family: 'Unkempt', cursive;
+	text-shadow: 2px 2px black;
+	position: relative;
+	left: 400px;
+}
+
+html {
+	background-color: #626359;
+	position: relative;
+	bottom: 120px;
+}
+
+p {
+	font-family: tahoma;
+	position: relative;
+}
+
+h2 {
+	font-family: tahoma;
+	position: relative;
+	left: 0px;
+	padding-top: 20px;
+}
+
+main { 
+	background-color: white;
+	margin: 0px auto;
+	width: 45%;
+	padding-left: 30px;
+	padding-top: 0px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+
+input {
+	position: relative;
+	left: 450px;
+	bottom: 40px;
+	width: 30%;
+}
+
+header {
+	background-color: #9e261e;
+	width: 683px;
+	margin: 0px auto;
+	position: relative;
+	top: 205px;
+	padding: 20px;
+	padding-left: 35px;
+}
+
+a {
+	color: white;
+	font-size: 18px;
+	padding-right: 40px;
+}
+
+button {
+	position: relative;
+	left: 320px;
+}
+
+.ignorance {
+	background-color: #9e261e;
+	width: 690px;
+	margin: 0px auto;
+	position: relative;
+	top: 205px;
+	padding: 20px;
+	padding-left: 35px;
+}
+
+footer {
+	background-color: grey;
+	width: 729px;
+	position: relative;
+	left: 388px; 
+	font-family: tahoma;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.hoofd {
+	width: 600px;
+}
